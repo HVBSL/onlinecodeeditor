@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlinecodeeditor/static/css/main.8c66038a.css",
+    "main.js": "/onlinecodeeditor/static/js/main.e6807501.js",
+    "index.html": "/onlinecodeeditor/index.html",
+    "main.8c66038a.css.map": "/onlinecodeeditor/static/css/main.8c66038a.css.map",
+    "main.e6807501.js.map": "/onlinecodeeditor/static/js/main.e6807501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c66038a.css",
+    "static/js/main.e6807501.js"
+  ]
+}
